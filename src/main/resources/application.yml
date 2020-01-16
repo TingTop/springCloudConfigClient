@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: config-git-client
+server:
+  port: 13000
